@@ -6,5 +6,6 @@ public class Main {
         System.out.println("121");
         System.out.println("134");
         System.out.println("5555");
+        System.out.println("546");
     }
 }

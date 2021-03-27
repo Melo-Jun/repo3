@@ -1,4 +1,4 @@
-package com.company.hhh.tt;
+package com.company.hhh.text;
 
 import javax.sound.midi.Soundbank;
 
